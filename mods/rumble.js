@@ -6,7 +6,7 @@ var modifier = {
   max_players: 20,
   kills_to_win: 100,
   yeet_gems: true,
-  healer_button: false,
+  healer_button: true,
   round_timer: 30, // in minutes
   game_delay: 60, // in seconds
   round_ship_tier: "random", // choose from 3-7 or "random"
